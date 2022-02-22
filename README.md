@@ -23,7 +23,7 @@ Of in een PowerShell omgeving:
 Haal vervolgens de benodigde bestanden op van GitHub:
 
 	git clone https://github.com/danielboven/cclaw-dms-bestandshernoemer.git
-	cd cclaw-dms-bestandshernoemer-master
+	cd cclaw-dms-bestandshernoemer
 
 Installeer de vereiste Python-pakketten:
 
